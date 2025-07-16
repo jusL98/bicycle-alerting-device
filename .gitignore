@@ -1,0 +1,124 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# TensorFlow/ML Models (large files)
+*.tflite
+*.pb
+*.h5
+*.hdf5
+*.weights
+models/
+*.model
+
+# Large Media Files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.m4v
+
+# Audio Files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+
+# Images (keep small test images, exclude large datasets)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+!test_images/*.jpg
+!test_images/*.jpeg
+!test_images/*.png
+!assets/**/*.jpg
+!assets/**/*.jpeg
+!assets/**/*.png
+
+# Logs and Output Files
+*.log
+log_*
+*.out
+*.csv
+*.txt
+!requirements.txt
+!README.txt
+!*.md
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# PyTorch
+*.pth
+*.pt
+
+# OpenCV
+*.xml
+
+# Configuration Files (keep templates)
+config.ini
+settings.json
+!config.template.ini
+!settings.template.json
+
+# Runtime Files
+*.pid
+*.lock
