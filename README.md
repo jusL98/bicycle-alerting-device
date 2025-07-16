@@ -181,7 +181,7 @@ Big thanks to Evan Juras' [TensorFlow-Lite-Object-Detection-on-Android-and-Raspb
 
 ## License
 
-This project is licensed under the [MIT](LICENSE.txt) License. See LICENSE.txt for more information.
+This project is licensed under the [Apache-2.0](LICENSE.txt) License. See LICENSE.txt for more information.
 
 <br>
 
