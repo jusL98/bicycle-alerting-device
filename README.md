@@ -11,7 +11,7 @@ I developed this project for the York Region Science & Technology Fair (2023), w
 The project's code is largely an extension of Evan Juras' [TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi](https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Windows_TFLite_Guide.md) guide. Thanks Evan!
 
 <p align="left">
-   <img width="600" alt="image" src="https://github.com/user-attachments/assets/1bf0f0f6-f66b-4bd1-9f1c-d392aa2adaaa"/>
+   <img width="600" alt="image" src="https://github.com/user-attachments/assets/95ea480c-b6f1-4eb3-866c-d5e6ddedb8eb"/>
 </p>
 
 ## Description
